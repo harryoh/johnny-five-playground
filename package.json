@@ -1,0 +1,22 @@
+{
+  "name": "johnny-five-playground",
+  "version": "1.0.0",
+  "description": "Johnny-Five Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harryoh/johnny-five-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harryoh/johnny-five-playground/issues"
+  },
+  "homepage": "https://github.com/harryoh/johnny-five-playground",
+  "dependencies": {
+    "johnny-five": "^0.8.74"
+  }
+}
